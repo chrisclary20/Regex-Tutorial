@@ -1,5 +1,8 @@
 # 17 Computer Science for JavaScript: Regex Tutorial
 
+## Links
+https://gist.github.com/chrisclary20/c27b3cb04e58f9582012c13f2a29980a
+
 ## Your Task
 
 Developers write code, but they also *write about code*. Take a moment to search the web for tutorials about any of the subjects you’ve learned so far in this course. You’re likely to find thousands of tutorials written by developers of all skill levels, including junior developers&mdash;like yourself!
